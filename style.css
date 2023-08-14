@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: darkgrey;
+    display: inline-block;
+}
+.texto-1{
+    display: inline-block;
+    margin: 0 28px;
+    font-size: 28px;
+}
+.imagem-1{
+    display: flex;
+}
+.texto-2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 28px;
+    display: inline-block;
+    margin: 0 28px;
+}
